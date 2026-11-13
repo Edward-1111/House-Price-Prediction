@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Previous version of the project (local backup)
+_old_version/
+
+# Saved models (binary, reproducible from notebook 09)
+models/
